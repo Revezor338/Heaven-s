@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.image_main {
+	width: 135px;
+}
+
+.image_main3 {
+	width: 200px;
+	height: 200px;
+}
+
+.text_color {
+	color: green; 
+	background: orange;
+}
+
+.text_color_rainbow{
+    color: red;
+}
+
+.content {
+	background: orange;
+}																																				
+.header1 {
+	font-size: 32px;
+	color: brown;
+}	
+
+.header2  {
+	font-size: 64px;
+	color: green;
+}
+.image_logo {
+	width: 200px;
+	height: 200px;
+}
+
+
+.container2 {
+	display: flex;
+	justify-content: space-between;
+	background: blue;
+}
+
+.container2_0 {
+	display: flex;
+	justify-content: space-between;
+	background: pink;
+}
+.header2_0 {
+	font-size: 64px;
+	color: green;
+}
+.header1_0 {
+	font-size: 32px;
+	color: brown;
+}
