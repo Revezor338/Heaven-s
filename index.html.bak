@@ -5,7 +5,7 @@
   <title>Heaven's anime(jojo's bizarre adventure)</title>
   <link rel="stylesheet" href="./style.css" type="text/css"/>
 </head>
-<body style="background: gray; padding: 15px"">
+<body style="background: gray;">
 	<div class="container2_0">	
 		<img class="image_logo" src="ht/Logo_Heavens-PhotoRoom.png" alt="альтернативный текст">	
 		<div class="header1_0">
