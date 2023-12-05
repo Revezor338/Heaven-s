@@ -3,9 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <title>Heaven's anime(jojo's bizarre adventure)</title>
+  <link rel="icon" type="image/x-icon" href="Logo_Heavens-PhotoRoom.png">
   <link rel="stylesheet" href="./style.css" type="text/css"/>
 </head>
-<body style="background: gray;">
+<body style="background: gray; padding: 15px"">
 	<div class="container2_0">	
 		<img class="image_logo" src="ht/Logo_Heavens-PhotoRoom.png" alt="альтернативный текст">	
 		<div class="header1_0">
